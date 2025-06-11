@@ -86,7 +86,7 @@ python main.py
 Feel free to reach out for feedback or collaboration!
 
 **Souvik Dey**  
-📧 [Add your email here]  
-🌐 [LinkedIn | Portfolio | etc.]
+📧 mailsouvikdey123@gmail.com 
+🌐 https://www.linkedin.com/in/souvikdey-10/
 
 ---
